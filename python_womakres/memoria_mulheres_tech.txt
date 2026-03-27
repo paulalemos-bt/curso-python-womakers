@@ -1,0 +1,15 @@
+nome:Ana Paula
+area:dados
+contribuicao:ser linda
+ano:2026
+---
+nome:Patricia Santos
+area:cloud
+contribuicao:paciente
+ano:2025
+---
+nome:Isabelly Araújo
+area:Java
+contribuicao:persistencia
+ano:2026
+---
